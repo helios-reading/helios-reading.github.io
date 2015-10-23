@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Faculty
+* Rina Foygel Barber
+* John Lafferty
+* Zheng Tracy Ke
 
-Some information about you!
+### Contact
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Matt Bonakdarpour](mailto:mbonakda@gmail.com), [Wooseok Ha](mailto:haywse@gmail.com)
