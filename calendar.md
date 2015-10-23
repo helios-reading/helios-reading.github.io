@@ -12,5 +12,5 @@ permalink: /calendar/
   * _Presenter_: Nikita Mishra   
 * **11/06/2015** 
   * _Tutorial_: Information Theory  
-  * _Presnter_: Yuancheng Zhu 
+  * _Presenter_: Yuancheng Zhu 
  
