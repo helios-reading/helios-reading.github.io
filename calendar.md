@@ -4,6 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
+#### Fall 2015
 * **[10/23/2015](http://helios-reading.github.io/opt_vivak/)**
   * Vivak Patel, Nonlinear Optimization (Tutorial)
 * **10/30/2015**
