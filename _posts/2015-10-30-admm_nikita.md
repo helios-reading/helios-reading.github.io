@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10/30/2015 [A General Analysis of the Convergence of ADMM] [(arXiv)](http://arxiv.org/abs/1502.02009)
+title: 10/30/2015 A General Analysis of the Convergence of ADMM
 ---
 **Presenter**: Nikita Mishra
 **Title**: A General Analysis of the Convergence of ADMM
