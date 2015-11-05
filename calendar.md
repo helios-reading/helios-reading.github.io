@@ -11,5 +11,10 @@ permalink: /calendar/
   * Nikita Mishra, [A General Analysis of the Convergence of ADMM](http://arxiv.org/abs/1502.02009)  
 * **11/06/2015** 
   * Yuancheng Zhu, Information Theory (Tutorial)
-
+* **11/13/2015** 
+  * (TBA)
+* **11/20/2015** 
+  * Si Tang, Eigenvalues of Random Matrices (Tutorial)
+* **12/04/2015** 
+  * John Santerre (TBA)
  
