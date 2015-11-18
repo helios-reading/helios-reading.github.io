@@ -11,7 +11,7 @@ permalink: /calendar/
   * Nikita Mishra, [A General Analysis of the Convergence of ADMM](http://arxiv.org/abs/1502.02009)  
 * **[11/06/2015](http://helios-reading.github.io/infoTheory_yc/)**   
   * Yuancheng Zhu, Information Theory (Tutorial)
-* **11/13/2015** 
+* **[11/13/2015](http://helios-reading.github.io/minimaxLp-fan/)** 
   * Fan Yang, [Minimax rates of estimation for high-dimensional linear regression over ℓq-balls](http://arxiv.org/pdf/0910.2042.pdf)
 * **11/20/2015** 
   * Si Tang, Eigenvalues of Random Matrices (Tutorial)
