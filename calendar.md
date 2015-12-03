@@ -13,7 +13,7 @@ permalink: /calendar/
   * Yuancheng Zhu, Information Theory (Tutorial)
 * **[11/13/2015](http://helios-reading.github.io/minimaxLp-fan/)** 
   * Fan Yang, [Minimax rates of estimation for high-dimensional linear regression over ℓq-balls](http://arxiv.org/pdf/0910.2042.pdf)
-* **11/20/2015** 
+* **[11/20/2015](http://helios-reading.github.io/randomMat-si/))** 
   * Si Tang, Eigenvalues of Random Matrices (Tutorial)
 * **12/04/2015** 
   * John Santerre (TBA)
