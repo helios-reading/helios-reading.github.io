@@ -8,13 +8,13 @@ permalink: /calendar/
   * Wooseok Ha, [Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma](http://arxiv.org/abs/1511.08895)
   * Matt Bonakdarpour, [Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems](http://arxiv.org/abs/1505.05114)
 * **01/22/2016** (NIPS Review - Week 2)   
-  * Zhe Liu, Regularization Path of Cross-Validation Error Lower Bounds  
-  * Yi Ding, Matrix Completion Under Monotonic Single Index Models  
+  * Zhe Liu, [Regularization Path of Cross-Validation Error Lower Bounds](http://arxiv.org/abs/1502.02344)  
+  * Yi Ding, [Matrix Completion Under Monotonic Single Index Models](http://arxiv.org/abs/1512.08787)  
 * **01/29/2016** (NIPS Review - Week 3)   
-  * Minzhe Wang, Private Graphon Estimation for Sparse Graphs  
-  * Diana Cai, Fast and Guaranteed Tensor Decomposition via Sketching  
+  * Minzhe Wang, [Private Graphon Estimation for Sparse Graphs](http://arxiv.org/abs/1506.06162)  
+  * Diana Cai, [Fast and Guaranteed Tensor Decomposition via Sketching](http://arxiv.org/abs/1506.04448)  
 * **02/05/2016** (NIPS Review - Week 4)  
-  * Jonathan Eskreis-Winkler, Fast, Provable Algorithms for Isotonic Regression in all L_p-norms  
+  * Jonathan Eskreis-Winkler, [Fast, Provable Algorithms for Isotonic Regression in all L_p-norms](http://arxiv.org/abs/1507.00710)  
   
 #### Fall 2015
 * **[10/23/2015](http://helios-reading.github.io/opt_vivak/)**
