@@ -3,7 +3,19 @@ layout: page
 title: Calendar
 permalink: /calendar/
 ---
-
+#### Winter 2016
+* **[01/08/2016](http://helios-reading.github.io/nips_week1/)**  
+  * Wooseok Ha, Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma  
+  * Matt Bonakdarpour, Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems  
+* **01/22/2016**  
+  * Zhe Liu, Regularization Path of Cross-Validation Error Lower Bounds  
+  * Yi Ding, Matrix Completion Under Monotonic Single Index Models  
+* **01/29/2016**  
+  * Minzhe Wang, Private Graphon Estimation for Sparse Graphs  
+  * Diana Cai, Fast and Guaranteed Tensor Decomposition via Sketching  
+* **02/05/2016**  
+  * Jonathan Eskreis-Winkler, Fast, Provable Algorithms for Isotonic Regression in all L_p-norms  
+  
 #### Fall 2015
 * **[10/23/2015](http://helios-reading.github.io/opt_vivak/)**
   * Vivak Patel, Nonlinear Optimization (Tutorial)
