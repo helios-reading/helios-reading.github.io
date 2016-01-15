@@ -5,8 +5,8 @@ permalink: /calendar/
 ---
 #### Winter 2016
 * **[01/08/2016](http://helios-reading.github.io/nips_week1/)**  
-  * Wooseok Ha, Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma  
-  * Matt Bonakdarpour, Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems  
+  * Wooseok Ha, [Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma](http://arxiv.org/abs/1511.08895)
+  * Matt Bonakdarpour, [Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems](http://arxiv.org/abs/1505.05114)
 * **01/22/2016**  
   * Zhe Liu, Regularization Path of Cross-Validation Error Lower Bounds  
   * Yi Ding, Matrix Completion Under Monotonic Single Index Models  
