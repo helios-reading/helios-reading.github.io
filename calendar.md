@@ -20,6 +20,10 @@ permalink: /calendar/
 * **[02/19/2016](http://helios-reading.github.io/nips_week6/)** (NIPS Review - Week 6)  
   * Fengshuo Zhang, [On the consistency theory of high dimensional variable screening](http://arxiv.org/abs/1502.06895)
   * Haoyang Liu
+* **[03/04/2016](http://helios-reading.github.io/subspace_wh/)** 
+  * Wooseok Ha, [A Subspace Learning Approach to High-Dimensional Matrix Decomposition with Efficient Information Sampling](http://arxiv.org/abs/1502.00182)  
+* **[03/11/2016](http://helios-reading.github.io/tm_nmf_mb/)** 
+  * Matt Bonakdarpour, Topic Modeling with NMF  
 
 #### Fall 2015
 * **[10/23/2015](http://helios-reading.github.io/opt_vivak/)**
