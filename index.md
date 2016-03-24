@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index
+title: Calendar
 permalink: /
 ---
 #### Winter 2016
