@@ -19,7 +19,7 @@ permalink: /
   * Diana Cai, [Fast and Guaranteed Tensor Decomposition via Sketching](http://arxiv.org/abs/1506.04448)  
 * **[02/19/2016](http://helios-reading.github.io/nips_week6/)** (NIPS Review - Week 6)  
   * Fengshuo Zhang, [On the consistency theory of high dimensional variable screening](http://arxiv.org/abs/1502.06895)
-  * Haoyang Liu
+  * Haoyang Liu, [Information-theoretic lower bounds for distributed statistical estimation with communication constraints](http://www.cs.berkeley.edu/~yuczhang/files/nips13_communication.pdf)
 * **[03/04/2016](http://helios-reading.github.io/subspace_wh/)** 
   * Wooseok Ha, [A Subspace Learning Approach to High-Dimensional Matrix Decomposition with Efficient Information Sampling](http://arxiv.org/abs/1502.00182)  
 * **[03/11/2016](http://helios-reading.github.io/tm_nmf_mb/)** 
