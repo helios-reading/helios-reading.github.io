@@ -23,7 +23,7 @@ permalink: /
 * **[03/04/2016](http://helios-reading.github.io/subspace_wh/)** 
   * Wooseok Ha, [A Subspace Learning Approach to High-Dimensional Matrix Decomposition with Efficient Information Sampling](http://arxiv.org/abs/1502.00182)  
 * **[03/11/2016](http://helios-reading.github.io/tm_nmf_mb/)** 
-  * Matt Bonakdarpour, Topic Modeling with NMF  
+  * Matt Bonakdarpour, Topic Modeling with Nonnegative Matrix Factorizations
 
 #### Fall 2015
 * **[10/23/2015](http://helios-reading.github.io/opt_vivak/)**
