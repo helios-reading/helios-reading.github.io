@@ -10,7 +10,7 @@ permalink: /
   * Chris McKennan, [A multivariate nonparametric test of independence](http://www.sciencedirect.com/science/article/pii/S0047259X05001818) 
   * Discussants: Yuxue Qi, Bumeng Zhuo  
 * **04/26/2016**
-  * Petr Panov, [paper](http://m.biomet.oxfordjournals.org/content/101/4/755.full.pdf)  
+  * Petr Panov, [Classification with confidence](http://m.biomet.oxfordjournals.org/content/101/4/755.full.pdf)  
   * Discussants: Fan Yang, Rob Webber  
 * **05/03/2016**
   * Haoyang Liu, [Distribution-Free Predictive Inference For Regression](http://www.stat.cmu.edu/~ryantibs/papers/conformal.pdf)  
