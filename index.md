@@ -3,6 +3,23 @@ layout: page
 title: Calendar
 permalink: /
 ---
+#### Spring 2016
+* **03/29/2016**
+  * Rina Foygel Barber, [1-Bit Matrix Completion](http://arxiv.org/abs/1209.3672) 
+* **04/19/2016**
+  * Chris McKennan, [A multivariate nonparametric test of independence](http://www.sciencedirect.com/science/article/pii/S0047259X05001818) 
+* **04/26/2016**
+  * Petr Panov, [paper](http://m.biomet.oxfordjournals.org/content/101/4/755.full.pdf)  
+* **05/03/2016**
+  * Haoyang Liu, [Distribution-Free Predictive Inference For Regression](http://www.stat.cmu.edu/~ryantibs/papers/conformal.pdf)  
+* **05/10/2016**
+  * Youngseok Kim, TBA  
+* **05/17/2016**
+  * Minzhe Wang, TBA  
+* **05/24/2016**
+  * Fengshuo Zhang, TBA  
+* **05/31/2016**
+  * Jon Eskreis-Winkler, TBA  
 #### Winter 2016
 * **[01/08/2016](http://helios-reading.github.io/nips_week1/)** (NIPS Review - Week 1)  
   * Wooseok Ha, [Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma](http://arxiv.org/abs/1511.08895)
