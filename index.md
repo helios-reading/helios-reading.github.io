@@ -20,6 +20,7 @@ permalink: /
   * Fengshuo Zhang, TBA  
 * **05/31/2016**
   * Jon Eskreis-Winkler, TBA  
+
 #### Winter 2016
 * **[01/08/2016](http://helios-reading.github.io/nips_week1/)** (NIPS Review - Week 1)  
   * Wooseok Ha, [Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma](http://arxiv.org/abs/1511.08895)
