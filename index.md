@@ -8,18 +8,25 @@ permalink: /
   * Rina Foygel Barber, [1-Bit Matrix Completion](http://arxiv.org/abs/1209.3672) 
 * **04/19/2016**
   * Chris McKennan, [A multivariate nonparametric test of independence](http://www.sciencedirect.com/science/article/pii/S0047259X05001818) 
+  * Discussants: Yuxue Qi, Bumeng Zhuo  
 * **04/26/2016**
   * Petr Panov, [paper](http://m.biomet.oxfordjournals.org/content/101/4/755.full.pdf)  
+  * Discussants: Fan Yang, Rob Webber  
 * **05/03/2016**
   * Haoyang Liu, [Distribution-Free Predictive Inference For Regression](http://www.stat.cmu.edu/~ryantibs/papers/conformal.pdf)  
+  * Discussants: Yunfan Tang, Fengshuo Zhang  
 * **05/10/2016**
   * Youngseok Kim, TBA  
+  * Discussants: Matt Bonakdarpour, Wooseok Ha  
 * **05/17/2016**
   * Minzhe Wang, TBA  
+  * Discussants: Jon Eskreis-Winkler, Chris McKennan  
 * **05/24/2016**
   * Fengshuo Zhang, TBA  
+  * Discussants: Haoyang Liu, Youngseok Kim  
 * **05/31/2016**
   * Jon Eskreis-Winkler, TBA  
+  * Discussants: Rob Webber, Minzhe Wang  
 
 #### Winter 2016
 * **[01/08/2016](http://helios-reading.github.io/nips_week1/)** (NIPS Review - Week 1)  
