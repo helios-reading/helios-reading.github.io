@@ -16,7 +16,8 @@ permalink: /
   * Haoyang Liu, [Distribution-Free Predictive Inference For Regression](http://www.stat.cmu.edu/~ryantibs/papers/conformal.pdf)  
   * Discussants: Yunfan Tang, Fengshuo Zhang  
 * **05/10/2016**
-  * Youngseok Kim, TBA  
+  * Youngseok Kim, [Estimating False Discovery Proportion Under Arbitrary
+  Covariance Dependence](http://orfe.princeton.edu/~jqfan/papers/12/FDP-JASA.pdf)
   * Discussants: Matt Bonakdarpour, Wooseok Ha  
 * **05/17/2016**
   * Minzhe Wang, TBA  
