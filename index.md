@@ -20,10 +20,10 @@ permalink: /
   Covariance Dependence](http://orfe.princeton.edu/~jqfan/papers/12/FDP-JASA.pdf)
   * Discussants: Matt Bonakdarpour, Wooseok Ha  
 * **05/17/2016**
-  * Minzhe Wang, TBA  
+  * Minzhe Wang, [Maximum Likelihood Estimation and Inference for Approximate Factor Models of High Dimension](http://www.mitpressjournals.org/doi/pdfplus/10.1162/REST_a_00519)  
   * Discussants: Jon Eskreis-Winkler, Chris McKennan  
 * **05/24/2016**
-  * Fengshuo Zhang, TBA  
+  * Fengshuo Zhang, [Dynamic stochastic blockmodels: Statistical models for time-evolving networks](https://arxiv.org/abs/1304.5974)  
   * Discussants: Haoyang Liu, Youngseok Kim  
 * **05/31/2016**
   * Jon Eskreis-Winkler, TBA  
