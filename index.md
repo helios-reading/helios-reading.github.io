@@ -25,9 +25,6 @@ permalink: /
 * **05/24/2016**
   * Fengshuo Zhang, [Dynamic stochastic blockmodels: Statistical models for time-evolving networks](https://arxiv.org/abs/1304.5974)  
   * Discussants: Haoyang Liu, Youngseok Kim  
-* **05/31/2016**
-  * Jon Eskreis-Winkler, TBA  
-  * Discussants: Rob Webber, Minzhe Wang  
 
 #### Winter 2016
 * **[01/08/2016](http://helios-reading.github.io/nips_week1/)** (NIPS Review - Week 1)  
