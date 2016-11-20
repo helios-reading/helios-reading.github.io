@@ -20,10 +20,9 @@ permalink: /
   * Kelli-Jean Chun
 * **02/28/2017**
   * Haoyang Liu
-* **03/07/2017**
-  * Bumeng Zhuo
+* **03/07/2017**  
+  * Bumeng Zhuo  
 
-  * Haoyang Liu, [Estimation of High-Dimensional Graphical Models Using Regularized Score Matching](https://arxiv.org/abs/1507.00433)  
 #### Fall 2016
 * **11/08/2016**  
   * Chao Gao, Low-Rank Estimation [(Reference)](http://projecteuclid.org/euclid.aos/1304947044)  
