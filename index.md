@@ -3,6 +3,16 @@ layout: page
 title: Calendar
 permalink: /
 ---
+#### Fall 2016
+* **11/08/2016**  
+  * Chao Gao, Low-Rank Estimation [(Reference)](http://projecteuclid.org/euclid.aos/1304947044)  
+* **11/15/2016**  
+  * Rina Foygel Barber, [Matrix Completion Under Monotonic Single Index Models](https://arxiv.org/pdf/1512.08787v1.pdf)  
+* **11/22/2016**  
+  * Bumeng Zhuo, [Estimation of Non-Normalized Statistical Models by Score Matching](https://www.cs.helsinki.fi/u/ahyvarin/papers/JMLR05.pdf)
+* **11/29/2016**  
+  * Haoyang Liu [Estimation of High-Dimensional Graphical Models Using Regularized Score Matching](https://arxiv.org/abs/1507.00433)  
+
 #### Spring 2016
 * **03/29/2016**
   * Rina Foygel Barber, [1-Bit Matrix Completion](http://arxiv.org/abs/1209.3672) 
