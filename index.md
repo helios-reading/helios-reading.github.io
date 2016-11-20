@@ -3,6 +3,27 @@ layout: page
 title: Calendar
 permalink: /
 ---
+#### Winter 2017
+* **01/10/2017**
+  * Matt Bonakdarpour
+* **01/17/2017**
+  * Wooseok Ha
+* **01/24/2017**
+  * Ran Dai
+* **01/31/2017**
+  * Fan Yang
+* **02/07/2017**
+  * Fengshuo Zhang
+* **02/14/2017**
+  * Qinqing Zheng
+* **02/21/2017**
+  * Kelli-Jean Chun
+* **02/28/2017**
+  * Haoyang Liu
+* **03/07/2017**
+  * Bumeng Zhuo
+
+  * Haoyang Liu, [Estimation of High-Dimensional Graphical Models Using Regularized Score Matching](https://arxiv.org/abs/1507.00433)  
 #### Fall 2016
 * **11/08/2016**  
   * Chao Gao, Low-Rank Estimation [(Reference)](http://projecteuclid.org/euclid.aos/1304947044)  
