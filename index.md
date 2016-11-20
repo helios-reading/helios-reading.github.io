@@ -11,7 +11,7 @@ permalink: /
 * **11/22/2016**  
   * Bumeng Zhuo, [Estimation of Non-Normalized Statistical Models by Score Matching](https://www.cs.helsinki.fi/u/ahyvarin/papers/JMLR05.pdf)
 * **11/29/2016**  
-  * Haoyang Liu [Estimation of High-Dimensional Graphical Models Using Regularized Score Matching](https://arxiv.org/abs/1507.00433)  
+  * Haoyang Liu, [Estimation of High-Dimensional Graphical Models Using Regularized Score Matching](https://arxiv.org/abs/1507.00433)  
 
 #### Spring 2016
 * **03/29/2016**
