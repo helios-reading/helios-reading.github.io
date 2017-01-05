@@ -5,11 +5,11 @@ permalink: /
 ---
 #### Winter 2017
 * **01/10/2017**
-  * Matt Bonakdarpour
+  * Matt Bonakdarpour, Tutorial on Stochastic Gradient Descent [(Reference)](http://www.di.ens.fr/~fbach/fbach_tutorial_vr_nips_2016.pdf) 
 * **01/17/2017**
-  * Wooseok Ha
+  * Wooseok Ha, [Harder, Better, Faster, Stronger Convergence Rates for Least-Squares Regression](https://arxiv.org/abs/1602.05419)
 * **01/24/2017**
-  * Ran Dai
+  * Ran Dai, [Stochastic Variance Reduction Methods for Saddle-Point Problems](https://hal.archives-ouvertes.fr/hal-01319293v2/document)  
 * **01/31/2017**
   * Fan Yang
 * **02/07/2017**
