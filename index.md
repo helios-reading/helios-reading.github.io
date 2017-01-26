@@ -15,7 +15,7 @@ permalink: /
 * **02/07/2017**
   * Fan Yang, [Living on the edge: Phase Transition in Convex Programs with Random Data](https://arxiv.org/abs/1303.6672)  
 * **02/14/2017**
-  * Qinqing Zheng[Sharp Time-Data Tradeoffs for Linear Inverse Problems](https://arxiv.org/abs/1507.04793)  
+  * Qinqing Zheng, [Sharp Time-Data Tradeoffs for Linear Inverse Problems](https://arxiv.org/abs/1507.04793)  
 * **02/21/2017**
   * Kelli-Jean Chun
 * **02/28/2017**
